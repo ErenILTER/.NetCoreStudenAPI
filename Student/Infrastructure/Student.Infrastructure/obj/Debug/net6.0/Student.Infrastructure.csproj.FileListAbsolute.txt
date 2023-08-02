@@ -1,0 +1,17 @@
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Infrastructure.deps.json
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Infrastructure.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Infrastructure.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Application.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Domain.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Application.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\bin\Debug\net6.0\Student.Domain.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.AssemblyInfo.cs
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.csproj.CopyComplete
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\refint\Student.Infrastructure.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\Student.Infrastructure.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Infrastructure\Student.Infrastructure\obj\Debug\net6.0\ref\Student.Infrastructure.dll

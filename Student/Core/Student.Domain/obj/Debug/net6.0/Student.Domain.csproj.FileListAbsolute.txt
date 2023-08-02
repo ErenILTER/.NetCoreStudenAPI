@@ -1,0 +1,14 @@
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\bin\Debug\net6.0\Student.Domain.deps.json
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\bin\Debug\net6.0\Student.Domain.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\bin\Debug\net6.0\Student.Domain.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.csproj.AssemblyReference.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.AssemblyInfoInputs.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.AssemblyInfo.cs
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\refint\Student.Domain.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.pdb
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\ref\Student.Domain.dll
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\bin\Debug\net6.0\Student.Domain.runtimeconfig.json
+C:\Users\rzgel\OneDrive\Masaüstü\Öğrenci sistemi\Student\Core\Student.Domain\obj\Debug\net6.0\Student.Domain.genruntimeconfig.cache

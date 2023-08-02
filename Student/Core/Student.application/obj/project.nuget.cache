@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "stx54N88lIlVcRXP5p6W6iwtOGfEZ1F2I/CjiPmgJicYyCHyAD7D0f3VtAgZLd3mOyhrgb76OIg/SaFoApxPKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\desktop\\school\\algorithm\\C#\\Student\\Core\\Student.application\\Student.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
