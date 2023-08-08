@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6TQTcMEb5na1L3TtvJCgcUodLX2RyuIPjCFZ4KgMQU20WqQJYCF0/3kksfW+bZxw8IFjY8RVyIMAO7lD7F9Hg==",
+  "dgSpecHash": "bpt5/KtHH3u1kl+CW9cYyy3pbCBV0RSnGJKZxM32oQ1zns9W/zpw9Ne0YLar/6/g8HRGf2gFGx4nXMaRkCNEQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi\\Student\\Core,\\Student.Application\\Student.Application.csproj",
+  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi - Copy\\Student\\Core,\\Student.Application\\Student.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

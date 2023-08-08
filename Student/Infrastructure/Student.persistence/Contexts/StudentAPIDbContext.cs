@@ -15,6 +15,5 @@ namespace Student.Persistence.Contexts
         public StudentAPIDbContext(DbContextOptions options) : base(options)
         {}
         public DbSet<StudentInformations> StudentInformation { get; set; }
-        public DbSet<StudentClubs> StudentClub { get; set; }
     }
 }

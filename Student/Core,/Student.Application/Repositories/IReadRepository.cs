@@ -10,10 +10,10 @@ namespace Student.Application.Repositories
 {
     public interface IReadRepository<T> : IRepository<T> where T : StudentsEntity
     {
-        IQueryable<T> GetAll();
-        IQueryable<T> GetWhere(Expression<Func<T, bool>> method);
-        Task<T> GetSingeleAsync(Expression<Func<T, bool>> method);
-        Task<T> GetByIdAsync(string id);
+        IQueryable<T> GetAll(bool tracing = true);
+        IQueryable<T> GetWhere(Expression<Func<T, bool>> method, bool tracing = true);
+        Task<T> GetSingeleAsync(Expression<Func<T, bool>> method, bool tracing = true);
+        Task<T> GetByIdAsync(string id, bool tracing = true);
 
     }
 }

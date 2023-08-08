@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4dYfEy3VX2OOf4TP8hXPl07/6ZDP0ZbPpgC+nBZiid5jPaL6rmKHHhP4ZflxhJ3NCwR0PRZc/O5SNc6GQqj3Q==",
+  "dgSpecHash": "8PK2jeShHJs/J2FlIfAuVrz6fE+42tkISnVUjsJhxFHGDx0Zr1bg34WeP7vjXeLTsI7QcNscflRilYAGZ8/gkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi\\Student\\Infrastructure\\Student.persistence\\Student.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi - Copy\\Student\\Infrastructure\\Student.persistence\\Student.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rzgel\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

@@ -13,6 +13,6 @@ namespace StudentAPI.Domain.Entities.Students
     public class StudentsEntity
     {
         [Key]
-        public Guid IDCard { get; set;}
+        public int IDCard { get; set; }
     }
 }

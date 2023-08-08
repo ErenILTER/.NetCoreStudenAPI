@@ -19,8 +19,8 @@ namespace StudentAPI.Persistence
         public static void AddPersistenceServices(this IServiceCollection Services)
         {
             Services.AddDbContext<StudentAPIDbContext>(Options => Options.UseNpgsql(Configuration.ConnectionString));
-            Services.AddScoped<IStudentClubsReadRepository, StudentClubsReadRepository>();
-            Services.AddScoped<IStudentClubsWriteRepository, StudentClubsWriteRepository>();
+            //Services.AddScoped<ISstudentClubsReadRepository, StudentClubsReadRepository>();
+            //Services.AddScoped<ISstudentClubsWriteRepository, StudentClubsWriteRepository>();
             Services.AddScoped<IStudentInformationsReadRepository, StudentInformationsReadRepository>();
             Services.AddScoped<IStudentInformationsWriteRepository, StudentInformationsWriteRepository>();
         }

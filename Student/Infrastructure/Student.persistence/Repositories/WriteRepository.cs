@@ -43,7 +43,7 @@ namespace Student.Persistence.Repositories
         }
         public async Task<bool> RemoveAsync(string id)
         {
-            T model = await Table.FirstOrDefaultAsync(data => data.IDCard == Guid.Parse(id));
+            T model = await Table.FirstOrDefaultAsync(data => data.IDCard == int.Parse(id));
             return Remove(model);
         }
         public bool Update(T Model)

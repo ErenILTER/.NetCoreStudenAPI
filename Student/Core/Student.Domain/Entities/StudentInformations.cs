@@ -15,6 +15,5 @@ namespace Student.Domain.Entities
         public string StudentName { get; set; }
         public string StudentSurname { get; set; }
         public int StudentAge { get; set; }
-        public ICollection<StudentClubs> StudentClub { get; set; }
     }
 }

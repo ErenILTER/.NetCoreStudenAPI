@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi\\Student\\Core\\Student.Domain\\Student.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi - Copy\\Student\\Core\\Student.Domain\\Student.Domain.csproj",
       "projectName": "Student.Domain",
-      "projectPath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi\\Student\\Core\\Student.Domain\\Student.Domain.csproj",
+      "projectPath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi - Copy\\Student\\Core\\Student.Domain\\Student.Domain.csproj",
       "packagesPath": "C:\\Users\\rzgel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi\\Student\\Core\\Student.Domain\\obj\\",
+      "outputPath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\Öğrenci sistemi - Copy\\Student\\Core\\Student.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

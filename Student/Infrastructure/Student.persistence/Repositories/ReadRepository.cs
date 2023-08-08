@@ -21,14 +21,35 @@ namespace Student.Persistence.Repositories
 
         public DbSet<T> Table => _context.Set<T>();
 
-        public IQueryable<T> GetAll()
-        => Table; 
-        public IQueryable<T> GetWhere(Expression<Func<T, bool>> method)
-            => Table.Where(method);
-        public async Task<T> GetSingeleAsync(Expression<Func<T, bool>> method)
-            => await Table.FirstOrDefaultAsync(method);
-        public async Task<T> GetByIdAsync(string id)
-            //=> await Table.FirstOrDefaultAsync(data => data.IDCard == int.Parse(id));
-            => await Table.FindAsync(id);
+        public IQueryable<T> GetAll(bool tracing = true)
+        {
+            var query = Table.AsQueryable();
+            if (!tracing)
+               query = query.AsNoTracking();
+            return query;
+        }
+        public IQueryable<T> GetWhere(Expression<Func<T, bool>> method, bool tracing = true)
+        { 
+            var query = Table.Where(method);
+            if (!tracing)
+                query = query.AsNoTracking();
+            return query;
+        }
+        public async Task<T> GetSingeleAsync(Expression<Func<T, bool>> method, bool tracing = true)
+        { 
+            var query =Table.AsQueryable();
+            if(!tracing)
+                query = query.AsNoTracking();
+            return await query.FirstOrDefaultAsync(method);
+        }
+        public async Task<T> GetByIdAsync(string id, bool tracing = true)
+        //=> await Table.FirstOrDefaultAsync(data => data.IDCard == int.Parse(id));
+        //=> await Table.FindAsync(id);
+        {
+            var query = Table.AsQueryable();
+            if (!tracing)
+                query = query.AsNoTracking();
+            return await query.FirstOrDefaultAsync(data => data.IDCard == int.Parse(id));
+        }
     }
 }
